@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="namespace_tasker_manager" kind="namespace" language="C#">
+    <compoundname>TaskerManager</compoundname>
+    <innerclass refid="class_tasker_manager_1_1_main" prot="public">TaskerManager::Main</innerclass>
+    <innerclass refid="class_tasker_manager_1_1_program" prot="package">TaskerManager::Program</innerclass>
+    <innerclass refid="class_tasker_manager_1_1_run_task" prot="public">TaskerManager::RunTask</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Main.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

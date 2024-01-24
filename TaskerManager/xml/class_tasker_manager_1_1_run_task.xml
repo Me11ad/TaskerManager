@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="class_tasker_manager_1_1_run_task" kind="class" language="C#" prot="public">
+    <compoundname>TaskerManager::RunTask</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1a0b9474f87535266ec8ccb8a4ea52f2d2" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer TaskerManager.RunTask.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <qualifiedname>TaskerManager.RunTask.components</qualifiedname>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="8" column="48" bodyfile="RunTask.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1ac4feed42a6d8c7ce3cc691f7d8fe3475" prot="private" static="no" mutable="no">
+        <type>TextBox</type>
+        <definition>TextBox TaskerManager.RunTask.txtOpen</definition>
+        <argsstring></argsstring>
+        <name>txtOpen</name>
+        <qualifiedname>TaskerManager.RunTask.txtOpen</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="114" column="25" bodyfile="RunTask.Designer.cs" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1abfc2249473deb49187b02e90d4110c8f" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button TaskerManager.RunTask.btnRunTask</definition>
+        <argsstring></argsstring>
+        <name>btnRunTask</name>
+        <qualifiedname>TaskerManager.RunTask.btnRunTask</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="115" column="24" bodyfile="RunTask.Designer.cs" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1a04b9fe8cccb89538c216ba6769625981" prot="private" static="no" mutable="no">
+        <type>Label</type>
+        <definition>Label TaskerManager.RunTask.lblOpen</definition>
+        <argsstring></argsstring>
+        <name>lblOpen</name>
+        <qualifiedname>TaskerManager.RunTask.lblOpen</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="116" column="23" bodyfile="RunTask.Designer.cs" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1a3809908a89311dbe733de6b663d458d2" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button TaskerManager.RunTask.btnBrowse</definition>
+        <argsstring></argsstring>
+        <name>btnBrowse</name>
+        <qualifiedname>TaskerManager.RunTask.btnBrowse</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="117" column="24" bodyfile="RunTask.Designer.cs" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_run_task_1ad056ad95074272176a81b232fa393df1" prot="private" static="no" mutable="no">
+        <type>OpenFileDialog</type>
+        <definition>OpenFileDialog TaskerManager.RunTask.openFileDialog1</definition>
+        <argsstring></argsstring>
+        <name>openFileDialog1</name>
+        <qualifiedname>TaskerManager.RunTask.openFileDialog1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="118" column="32" bodyfile="RunTask.Designer.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1acf288b541afcdb8c531230f64c79eeb9" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>TaskerManager.RunTask.RunTask</definition>
+        <argsstring>()</argsstring>
+        <name>RunTask</name>
+        <qualifiedname>TaskerManager.RunTask.RunTask</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.cs" line="10" column="16" bodyfile="RunTask.cs" bodystart="10" bodyend="13"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1aec9845977f92a8b4080f0548dcd109c8" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.RunTask.RunTask_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>RunTask_Load</name>
+        <qualifiedname>TaskerManager.RunTask.RunTask_Load</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.cs" line="15" column="22" bodyfile="RunTask.cs" bodystart="15" bodyend="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1a77647d4d67de778d0775b56f84e12609" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.RunTask.btnRunTask_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>btnRunTask_Click</name>
+        <qualifiedname>TaskerManager.RunTask.btnRunTask_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.cs" line="20" column="22" bodyfile="RunTask.cs" bodystart="20" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1a8774c62c692513fc05060a3b8c3c8faf" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.RunTask.btnBrowse_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>btnBrowse_Click</name>
+        <qualifiedname>TaskerManager.RunTask.btnBrowse_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.cs" line="38" column="22" bodyfile="RunTask.cs" bodystart="38" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1a0113db2b2d3f4587ffbdb4271655a690" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.RunTask.txtOpen_TextChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>txtOpen_TextChanged</name>
+        <qualifiedname>TaskerManager.RunTask.txtOpen_TextChanged</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.cs" line="46" column="22" bodyfile="RunTask.cs" bodystart="46" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1af723a7aba7e87f2245752bb7ba913b75" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.RunTask.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>TaskerManager.RunTask.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="29" column="22" bodyfile="RunTask.Designer.cs" bodystart="29" bodyend="110"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_run_task_1ab6b04db8f1204a97f853f6d61fc18f35" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void TaskerManager.RunTask.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <qualifiedname>TaskerManager.RunTask.Dispose</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="RunTask.Designer.cs" line="14" column="33" bodyfile="RunTask.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="RunTask.cs" line="8" column="19" bodyfile="RunTask.cs" bodystart="9" bodyend="50"/>
+    <listofallmembers>
+      <member refid="class_tasker_manager_1_1_run_task_1a3809908a89311dbe733de6b663d458d2" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>btnBrowse</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1a8774c62c692513fc05060a3b8c3c8faf" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>btnBrowse_Click</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1abfc2249473deb49187b02e90d4110c8f" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>btnRunTask</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1a77647d4d67de778d0775b56f84e12609" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>btnRunTask_Click</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1a0b9474f87535266ec8ccb8a4ea52f2d2" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>components</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1ab6b04db8f1204a97f853f6d61fc18f35" prot="protected" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>Dispose</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1af723a7aba7e87f2245752bb7ba913b75" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>InitializeComponent</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1a04b9fe8cccb89538c216ba6769625981" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>lblOpen</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1ad056ad95074272176a81b232fa393df1" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>openFileDialog1</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1acf288b541afcdb8c531230f64c79eeb9" prot="public" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>RunTask</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1aec9845977f92a8b4080f0548dcd109c8" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>RunTask_Load</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1ac4feed42a6d8c7ce3cc691f7d8fe3475" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>txtOpen</name></member>
+      <member refid="class_tasker_manager_1_1_run_task_1a0113db2b2d3f4587ffbdb4271655a690" prot="private" virt="non-virtual"><scope>TaskerManager::RunTask</scope><name>txtOpen_TextChanged</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

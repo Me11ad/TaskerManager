@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.10.0" xml:lang="en-US">
+  <compound refid="class_tasker_manager_1_1_main" kind="class"><name>TaskerManager::Main</name>
+    <member refid="class_tasker_manager_1_1_main_1afa0058d5c5a8e1dc49f3d9e3d40b66ef" kind="variable"><name>components</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a1f252c2d3026fb1a1a725744f1c7f382" kind="variable"><name>button1</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a982d890d91712b75af17dcd084a105b9" kind="variable"><name>button2</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a03f75412d112c675f998c3f6d5a8d98f" kind="variable"><name>listBox1</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a3103d6b35a371710b96a3cc111d18ce9" kind="variable"><name>файлToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1ae50252de996e0727f854d9fe5eb418aa" kind="variable"><name>ToolStripMenuItemRunTask</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a927a9b3920278f1b458c341bbd1647ff" kind="variable"><name>выходToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1af664566db1c8e394c8e16e3bc6f00b53" kind="variable"><name>параметрыToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1ab04ef302db06adb639dc459d0e202c14" kind="variable"><name>видToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1af3292bc8c2e962b182dcc31b80e75b01" kind="variable"><name>menuStrip1</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a4d365b15fa80a8f95c382488d5bab295" kind="variable"><name>поверхОстальныхОконToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a6aee331408bf55dcb33f6e29915bba69" kind="variable"><name>сворачиватьПослеОбращенияToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a6e00efde99e2c7e3cd296e950a879c04" kind="variable"><name>скрыватьСвернутоеToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a78f922b3c0638393db4d3bf2d781c768" kind="variable"><name>задатьВкладкуПоУмолчаниюToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a996d8a6563dedb9aa2d7d26a6d7cf490" kind="variable"><name>процессыToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a7e33a131021ee6d4e1da22673ee3cbd6" kind="variable"><name>производительностьToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a85c700cb3b47690142480e837587698a" kind="variable"><name>журналПриложенийToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a540d6245cf5ca5eec6ee3147d1e64bfc" kind="variable"><name>автозагрузкаToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a3919c128b41b34087f8f1bcb2494a768" kind="variable"><name>пользователиToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a53b37bc23bb635c4f31a87914c51eb73" kind="variable"><name>подробноToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a58fe3f1fa51b9941f73e959cbd74cea3" kind="variable"><name>сToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1ad7845843ca39b8531eaa49f940fc22f3" kind="variable"><name>скоростьОбновленияToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a45da6480f073c6bcadbdfddc69d987f1" kind="variable"><name>высокаяToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1ae8c6f96f1321c5fdae8593fb01d6d055" kind="variable"><name>обычнаяToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a8a6c430234d848031fb6dada7ae621aa" kind="variable"><name>низкаяToolStripMenuItem</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a0081da90b0d4b4a9fb8fafe1bc281e70" kind="function"><name>Main</name></member>
+    <member refid="class_tasker_manager_1_1_main_1aa8ab87b548325e574f8edd178ad27b2b" kind="function"><name>Form1_load</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a00486028f9c9f01a1ae4efdb38a386d5" kind="function"><name>GetAllProcess</name></member>
+    <member refid="class_tasker_manager_1_1_main_1ad96fd4d3a235dfa95552a14ff7da5e0f" kind="function"><name>button1_Click</name></member>
+    <member refid="class_tasker_manager_1_1_main_1aedd707e3add0979ce773a12900d4e190" kind="function"><name>listBox1_SelectedIndexChanged</name></member>
+    <member refid="class_tasker_manager_1_1_main_1aa8cdc29c2404464caaadbccbb3d149d4" kind="function"><name>button2_Click</name></member>
+    <member refid="class_tasker_manager_1_1_main_1abe5fbe7b866bdc1b1537e6e96eb54fb2" kind="function"><name>���������������ToolStripMenuItem_Click</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a96f8e4e2074253f0e52536476b15081e" kind="function"><name>�����ToolStripMenuItem_Click</name></member>
+    <member refid="class_tasker_manager_1_1_main_1af1f90ca2f60e68e81c8e81deb22da2c7" kind="function"><name>InitializeComponent</name></member>
+    <member refid="class_tasker_manager_1_1_main_1a17d14738eda294df8050ed1c00fe1a55" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="class_tasker_manager_1_1_program" kind="class"><name>TaskerManager::Program</name>
+    <member refid="class_tasker_manager_1_1_program_1a818ff835be2fbeff69d0d0f636e5ab65" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="class_tasker_manager_1_1_run_task" kind="class"><name>TaskerManager::RunTask</name>
+    <member refid="class_tasker_manager_1_1_run_task_1a0b9474f87535266ec8ccb8a4ea52f2d2" kind="variable"><name>components</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1ac4feed42a6d8c7ce3cc691f7d8fe3475" kind="variable"><name>txtOpen</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1abfc2249473deb49187b02e90d4110c8f" kind="variable"><name>btnRunTask</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1a04b9fe8cccb89538c216ba6769625981" kind="variable"><name>lblOpen</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1a3809908a89311dbe733de6b663d458d2" kind="variable"><name>btnBrowse</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1ad056ad95074272176a81b232fa393df1" kind="variable"><name>openFileDialog1</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1acf288b541afcdb8c531230f64c79eeb9" kind="function"><name>RunTask</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1aec9845977f92a8b4080f0548dcd109c8" kind="function"><name>RunTask_Load</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1a77647d4d67de778d0775b56f84e12609" kind="function"><name>btnRunTask_Click</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1a8774c62c692513fc05060a3b8c3c8faf" kind="function"><name>btnBrowse_Click</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1a0113db2b2d3f4587ffbdb4271655a690" kind="function"><name>txtOpen_TextChanged</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1af723a7aba7e87f2245752bb7ba913b75" kind="function"><name>InitializeComponent</name></member>
+    <member refid="class_tasker_manager_1_1_run_task_1ab6b04db8f1204a97f853f6d61fc18f35" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system" kind="namespace"><name>global::System</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_collections_1_1_generic" kind="namespace"><name>global::System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_drawing" kind="namespace"><name>global::System::Drawing</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_i_o" kind="namespace"><name>global::System::IO</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_linq" kind="namespace"><name>global::System::Linq</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_net_1_1_http" kind="namespace"><name>global::System::Net::Http</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_threading" kind="namespace"><name>global::System::Threading</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_threading_1_1_tasks" kind="namespace"><name>global::System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespaceglobal_1_1_system_1_1_windows_1_1_forms" kind="namespace"><name>global::System::Windows::Forms</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_visual_basic" kind="namespace"><name>Microsoft::VisualBasic</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="namespace_tasker_manager" kind="namespace"><name>TaskerManager</name>
+  </compound>
+  <compound refid="_main_8cs" kind="file"><name>Main.cs</name>
+    <member refid="_main_8cs_1ad065cd88b82cc44a1153d26bd6174539" kind="typedef"><name>Timer</name></member>
+  </compound>
+  <compound refid="_main_8_designer_8cs" kind="file"><name>Main.Designer.cs</name>
+  </compound>
+  <compound refid="_debug_2net8_80-windows_2_8_n_e_t_core_app_00_version_0av8_80_8_assembly_attributes_8cs" kind="file"><name>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</name>
+  </compound>
+  <compound refid="_release_2net8_80-windows_2_8_n_e_t_core_app_00_version_0av8_80_8_assembly_attributes_8cs" kind="file"><name>.NETCoreApp,Version=v8.0.AssemblyAttributes.cs</name>
+  </compound>
+  <compound refid="_debug_2net8_80-windows_2_tasker_manager_8_assembly_info_8cs" kind="file"><name>TaskerManager.AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_release_2net8_80-windows_2_tasker_manager_8_assembly_info_8cs" kind="file"><name>TaskerManager.AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_debug_2net8_80-windows_2_tasker_manager_8_global_usings_8g_8cs" kind="file"><name>TaskerManager.GlobalUsings.g.cs</name>
+  </compound>
+  <compound refid="_release_2net8_80-windows_2_tasker_manager_8_global_usings_8g_8cs" kind="file"><name>TaskerManager.GlobalUsings.g.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_run_task_8cs" kind="file"><name>RunTask.cs</name>
+  </compound>
+  <compound refid="_run_task_8_designer_8cs" kind="file"><name>RunTask.Designer.cs</name>
+  </compound>
+  <compound refid="dir_a71c3b2ad23b9ff58220dd012d201987" kind="dir"><name>obj/Debug</name>
+  </compound>
+  <compound refid="dir_7847f6bd3b34c64ead7d39305ac8e6ba" kind="dir"><name>obj/Debug/net8.0-windows</name>
+  </compound>
+  <compound refid="dir_5e31dd54f12682bec7b38465079f24ee" kind="dir"><name>obj/Release/net8.0-windows</name>
+  </compound>
+  <compound refid="dir_43724e81dd40e09f32417973865cdd64" kind="dir"><name>obj</name>
+  </compound>
+  <compound refid="dir_9fe5cc214b8578ee5b8e153089aca810" kind="dir"><name>obj/Release</name>
+  </compound>
+</doxygenindex>

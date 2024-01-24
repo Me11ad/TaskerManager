@@ -1,0 +1,613 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.10.0" xml:lang="en-US">
+  <compounddef id="class_tasker_manager_1_1_main" kind="class" language="C#" prot="public">
+    <compoundname>TaskerManager::Main</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+    <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1afa0058d5c5a8e1dc49f3d9e3d40b66ef" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer TaskerManager.Main.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <qualifiedname>TaskerManager.Main.components</qualifiedname>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Required designer variable. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="8" column="48" bodyfile="Main.Designer.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a1f252c2d3026fb1a1a725744f1c7f382" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button TaskerManager.Main.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <qualifiedname>TaskerManager.Main.button1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="261" column="24" bodyfile="Main.Designer.cs" bodystart="261" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a982d890d91712b75af17dcd084a105b9" prot="private" static="no" mutable="no">
+        <type>Button</type>
+        <definition>Button TaskerManager.Main.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <qualifiedname>TaskerManager.Main.button2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="262" column="24" bodyfile="Main.Designer.cs" bodystart="262" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a03f75412d112c675f998c3f6d5a8d98f" prot="private" static="no" mutable="no">
+        <type>ListBox</type>
+        <definition>ListBox TaskerManager.Main.listBox1</definition>
+        <argsstring></argsstring>
+        <name>listBox1</name>
+        <qualifiedname>TaskerManager.Main.listBox1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="263" column="25" bodyfile="Main.Designer.cs" bodystart="263" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a3103d6b35a371710b96a3cc111d18ce9" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.файлToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>файлToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.файлToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="264" column="35" bodyfile="Main.Designer.cs" bodystart="264" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1ae50252de996e0727f854d9fe5eb418aa" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.ToolStripMenuItemRunTask</definition>
+        <argsstring></argsstring>
+        <name>ToolStripMenuItemRunTask</name>
+        <qualifiedname>TaskerManager.Main.ToolStripMenuItemRunTask</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="265" column="35" bodyfile="Main.Designer.cs" bodystart="265" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a927a9b3920278f1b458c341bbd1647ff" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.выходToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>выходToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.выходToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="266" column="35" bodyfile="Main.Designer.cs" bodystart="266" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1af664566db1c8e394c8e16e3bc6f00b53" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.параметрыToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>параметрыToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.параметрыToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="267" column="35" bodyfile="Main.Designer.cs" bodystart="267" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1ab04ef302db06adb639dc459d0e202c14" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.видToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>видToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.видToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="268" column="35" bodyfile="Main.Designer.cs" bodystart="268" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1af3292bc8c2e962b182dcc31b80e75b01" prot="private" static="no" mutable="no">
+        <type>MenuStrip</type>
+        <definition>MenuStrip TaskerManager.Main.menuStrip1</definition>
+        <argsstring></argsstring>
+        <name>menuStrip1</name>
+        <qualifiedname>TaskerManager.Main.menuStrip1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="269" column="27" bodyfile="Main.Designer.cs" bodystart="269" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a4d365b15fa80a8f95c382488d5bab295" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.поверхОстальныхОконToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>поверхОстальныхОконToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.поверхОстальныхОконToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="270" column="35" bodyfile="Main.Designer.cs" bodystart="270" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a6aee331408bf55dcb33f6e29915bba69" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.сворачиватьПослеОбращенияToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>сворачиватьПослеОбращенияToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.сворачиватьПослеОбращенияToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="271" column="35" bodyfile="Main.Designer.cs" bodystart="271" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a6e00efde99e2c7e3cd296e950a879c04" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.скрыватьСвернутоеToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>скрыватьСвернутоеToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.скрыватьСвернутоеToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="272" column="35" bodyfile="Main.Designer.cs" bodystart="272" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a78f922b3c0638393db4d3bf2d781c768" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.задатьВкладкуПоУмолчаниюToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>задатьВкладкуПоУмолчаниюToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.задатьВкладкуПоУмолчаниюToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="273" column="35" bodyfile="Main.Designer.cs" bodystart="273" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a996d8a6563dedb9aa2d7d26a6d7cf490" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.процессыToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>процессыToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.процессыToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="274" column="35" bodyfile="Main.Designer.cs" bodystart="274" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a7e33a131021ee6d4e1da22673ee3cbd6" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.производительностьToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>производительностьToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.производительностьToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="275" column="35" bodyfile="Main.Designer.cs" bodystart="275" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a85c700cb3b47690142480e837587698a" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.журналПриложенийToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>журналПриложенийToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.журналПриложенийToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="276" column="35" bodyfile="Main.Designer.cs" bodystart="276" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a540d6245cf5ca5eec6ee3147d1e64bfc" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.автозагрузкаToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>автозагрузкаToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.автозагрузкаToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="277" column="35" bodyfile="Main.Designer.cs" bodystart="277" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a3919c128b41b34087f8f1bcb2494a768" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.пользователиToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>пользователиToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.пользователиToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="278" column="35" bodyfile="Main.Designer.cs" bodystart="278" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a53b37bc23bb635c4f31a87914c51eb73" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.подробноToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>подробноToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.подробноToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="279" column="35" bodyfile="Main.Designer.cs" bodystart="279" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a58fe3f1fa51b9941f73e959cbd74cea3" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.сToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>сToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.сToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="280" column="35" bodyfile="Main.Designer.cs" bodystart="280" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1ad7845843ca39b8531eaa49f940fc22f3" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.скоростьОбновленияToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>скоростьОбновленияToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.скоростьОбновленияToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="281" column="35" bodyfile="Main.Designer.cs" bodystart="281" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a45da6480f073c6bcadbdfddc69d987f1" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.высокаяToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>высокаяToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.высокаяToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="282" column="35" bodyfile="Main.Designer.cs" bodystart="282" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1ae8c6f96f1321c5fdae8593fb01d6d055" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.обычнаяToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>обычнаяToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.обычнаяToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="283" column="35" bodyfile="Main.Designer.cs" bodystart="283" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_tasker_manager_1_1_main_1a8a6c430234d848031fb6dada7ae621aa" prot="private" static="no" mutable="no">
+        <type>ToolStripMenuItem</type>
+        <definition>ToolStripMenuItem TaskerManager.Main.низкаяToolStripMenuItem</definition>
+        <argsstring></argsstring>
+        <name>низкаяToolStripMenuItem</name>
+        <qualifiedname>TaskerManager.Main.низкаяToolStripMenuItem</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="284" column="35" bodyfile="Main.Designer.cs" bodystart="284" bodyend="-1"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1a0081da90b0d4b4a9fb8fafe1bc281e70" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>TaskerManager.Main.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <qualifiedname>TaskerManager.Main.Main</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="10" column="16" bodyfile="Main.cs" bodystart="10" bodyend="13"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1aa8ab87b548325e574f8edd178ad27b2b" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.Form1_load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Form1_load</name>
+        <qualifiedname>TaskerManager.Main.Form1_load</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="14" column="22" bodyfile="Main.cs" bodystart="14" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1a00486028f9c9f01a1ae4efdb38a386d5" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.GetAllProcess</definition>
+        <argsstring>()</argsstring>
+        <name>GetAllProcess</name>
+        <qualifiedname>TaskerManager.Main.GetAllProcess</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="19" column="22" bodyfile="Main.cs" bodystart="19" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1ad96fd4d3a235dfa95552a14ff7da5e0f" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button1_Click</name>
+        <qualifiedname>TaskerManager.Main.button1_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="28" column="22" bodyfile="Main.cs" bodystart="28" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1aedd707e3add0979ce773a12900d4e190" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.listBox1_SelectedIndexChanged</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>listBox1_SelectedIndexChanged</name>
+        <qualifiedname>TaskerManager.Main.listBox1_SelectedIndexChanged</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="34" column="22" bodyfile="Main.cs" bodystart="34" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1aa8cdc29c2404464caaadbccbb3d149d4" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>button2_Click</name>
+        <qualifiedname>TaskerManager.Main.button2_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="52" column="22" bodyfile="Main.cs" bodystart="52" bodyend="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1abe5fbe7b866bdc1b1537e6e96eb54fb2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.���������������ToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>���������������ToolStripMenuItem_Click</name>
+        <qualifiedname>TaskerManager.Main.���������������ToolStripMenuItem_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="59" column="22" bodyfile="Main.cs" bodystart="59" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1a96f8e4e2074253f0e52536476b15081e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.�����ToolStripMenuItem_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>�����ToolStripMenuItem_Click</name>
+        <qualifiedname>TaskerManager.Main.�����ToolStripMenuItem_Click</qualifiedname>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.cs" line="71" column="22" bodyfile="Main.cs" bodystart="71" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1af1f90ca2f60e68e81c8e81deb22da2c7" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void TaskerManager.Main.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <qualifiedname>TaskerManager.Main.InitializeComponent</qualifiedname>
+        <briefdescription>
+<para>Required method for Designer support - do not modify the contents of this method with the code editor. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="29" column="22" bodyfile="Main.Designer.cs" bodystart="29" bodyend="258"/>
+      </memberdef>
+    </sectiondef>
+    <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_tasker_manager_1_1_main_1a17d14738eda294df8050ed1c00fe1a55" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void TaskerManager.Main.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <qualifiedname>TaskerManager.Main.Dispose</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Clean up any resources being used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Main.Designer.cs" line="14" column="33" bodyfile="Main.Designer.cs" bodystart="14" bodyend="21"/>
+      </memberdef>
+    </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Main.cs" line="8" column="19" bodyfile="Main.cs" bodystart="9" bodyend="75"/>
+    <listofallmembers>
+      <member refid="class_tasker_manager_1_1_main_1a540d6245cf5ca5eec6ee3147d1e64bfc" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>автозагрузкаToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1ab04ef302db06adb639dc459d0e202c14" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>видToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a45da6480f073c6bcadbdfddc69d987f1" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>высокаяToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a927a9b3920278f1b458c341bbd1647ff" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>выходToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a85c700cb3b47690142480e837587698a" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>журналПриложенийToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a78f922b3c0638393db4d3bf2d781c768" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>задатьВкладкуПоУмолчаниюToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a8a6c430234d848031fb6dada7ae621aa" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>низкаяToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1ae8c6f96f1321c5fdae8593fb01d6d055" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>обычнаяToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1af664566db1c8e394c8e16e3bc6f00b53" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>параметрыToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a4d365b15fa80a8f95c382488d5bab295" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>поверхОстальныхОконToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a53b37bc23bb635c4f31a87914c51eb73" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>подробноToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a3919c128b41b34087f8f1bcb2494a768" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>пользователиToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a7e33a131021ee6d4e1da22673ee3cbd6" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>производительностьToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a996d8a6563dedb9aa2d7d26a6d7cf490" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>процессыToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a6aee331408bf55dcb33f6e29915bba69" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>сворачиватьПослеОбращенияToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1ad7845843ca39b8531eaa49f940fc22f3" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>скоростьОбновленияToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a6e00efde99e2c7e3cd296e950a879c04" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>скрыватьСвернутоеToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a58fe3f1fa51b9941f73e959cbd74cea3" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>сToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a3103d6b35a371710b96a3cc111d18ce9" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>файлToolStripMenuItem</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a96f8e4e2074253f0e52536476b15081e" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>�����ToolStripMenuItem_Click</name></member>
+      <member refid="class_tasker_manager_1_1_main_1abe5fbe7b866bdc1b1537e6e96eb54fb2" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>���������������ToolStripMenuItem_Click</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a1f252c2d3026fb1a1a725744f1c7f382" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>button1</name></member>
+      <member refid="class_tasker_manager_1_1_main_1ad96fd4d3a235dfa95552a14ff7da5e0f" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>button1_Click</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a982d890d91712b75af17dcd084a105b9" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>button2</name></member>
+      <member refid="class_tasker_manager_1_1_main_1aa8cdc29c2404464caaadbccbb3d149d4" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>button2_Click</name></member>
+      <member refid="class_tasker_manager_1_1_main_1afa0058d5c5a8e1dc49f3d9e3d40b66ef" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>components</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a17d14738eda294df8050ed1c00fe1a55" prot="protected" virt="non-virtual"><scope>TaskerManager::Main</scope><name>Dispose</name></member>
+      <member refid="class_tasker_manager_1_1_main_1aa8ab87b548325e574f8edd178ad27b2b" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>Form1_load</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a00486028f9c9f01a1ae4efdb38a386d5" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>GetAllProcess</name></member>
+      <member refid="class_tasker_manager_1_1_main_1af1f90ca2f60e68e81c8e81deb22da2c7" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>InitializeComponent</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a03f75412d112c675f998c3f6d5a8d98f" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>listBox1</name></member>
+      <member refid="class_tasker_manager_1_1_main_1aedd707e3add0979ce773a12900d4e190" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>listBox1_SelectedIndexChanged</name></member>
+      <member refid="class_tasker_manager_1_1_main_1a0081da90b0d4b4a9fb8fafe1bc281e70" prot="public" virt="non-virtual"><scope>TaskerManager::Main</scope><name>Main</name></member>
+      <member refid="class_tasker_manager_1_1_main_1af3292bc8c2e962b182dcc31b80e75b01" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>menuStrip1</name></member>
+      <member refid="class_tasker_manager_1_1_main_1ae50252de996e0727f854d9fe5eb418aa" prot="private" virt="non-virtual"><scope>TaskerManager::Main</scope><name>ToolStripMenuItemRunTask</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
